@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dianafduran
 - 👀 I’m interested in ... music and web development
 - 💞️ I’m looking to collaborate on ... HTML, CSS and JavaScript projects for now
-- 📫 How to reach me ... shesaduran@gmail.comx
+- 📫 How to reach me ... shesaduran@gmail.com
